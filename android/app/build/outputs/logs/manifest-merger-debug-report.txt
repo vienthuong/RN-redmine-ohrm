@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:react-native-vector-icons] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/9103a89860e6f4196b669ae13c02b00b/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/67ce9d755a4ae2e84c303296d8418ddf/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/62fbd6cbea26963d93b25ff1527fd357/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/af23ab0b01dcfc2c1e72a19900371139/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/3cfef8ff0f96fa9645c1824ba32ad8bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d9fd32af5f91ac6b40ae2d2dfa53529f/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/afc5dad9e4bdce5864c8a9fb8e7ff60b/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/7df23142dc9044a96daad709d1d573a9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/099456e0f67f44d7a59e0520422818ab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ef1270b9a59899bff977a6584a9dd8c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d687bbd5d148e21d9b9c61d927e59af6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a68a1c5526abe4a3957a96fd8bb6264/AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6c59efe9be0db3ed364fe35dc25587e2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+	package
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:7:5-43:19
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/9103a89860e6f4196b669ae13c02b00b/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/9103a89860e6f4196b669ae13c02b00b/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/67ce9d755a4ae2e84c303296d8418ddf/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/67ce9d755a4ae2e84c303296d8418ddf/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d9fd32af5f91ac6b40ae2d2dfa53529f/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d9fd32af5f91ac6b40ae2d2dfa53529f/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/afc5dad9e4bdce5864c8a9fb8e7ff60b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/afc5dad9e4bdce5864c8a9fb8e7ff60b/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6c59efe9be0db3ed364fe35dc25587e2/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6c59efe9be0db3ed364fe35dc25587e2/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.redminemobile.MainActivity
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:13:7-41:18
+	android:label
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:18:9-36:25
+action#android.intent.action.VIEW
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:19:11-63
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:19:19-60
+category#android.intent.category.LAUNCHER
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:20:11-71
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:20:21-68
+category#android.intent.category.DEFAULT
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:21:11-70
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:21:21-67
+category#android.intent.category.BROWSABLE
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:22:11-72
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:22:21-69
+data
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:24:11-26:20
+	android:host
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:25:17-48
+	android:scheme
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:24:17-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:37:9-40:25
+action#android.intent.action.MAIN
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:38:13-65
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:38:21-62
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:42:7-84
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:42:17-81
+uses-sdk
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/e22d86f4d899505bb10a90df6abe5ab3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/9103a89860e6f4196b669ae13c02b00b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/9103a89860e6f4196b669ae13c02b00b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/67ce9d755a4ae2e84c303296d8418ddf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/67ce9d755a4ae2e84c303296d8418ddf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/62fbd6cbea26963d93b25ff1527fd357/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/62fbd6cbea26963d93b25ff1527fd357/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/af23ab0b01dcfc2c1e72a19900371139/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/af23ab0b01dcfc2c1e72a19900371139/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/3cfef8ff0f96fa9645c1824ba32ad8bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/3cfef8ff0f96fa9645c1824ba32ad8bc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d9fd32af5f91ac6b40ae2d2dfa53529f/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/d9fd32af5f91ac6b40ae2d2dfa53529f/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/7df23142dc9044a96daad709d1d573a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/7df23142dc9044a96daad709d1d573a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/099456e0f67f44d7a59e0520422818ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/099456e0f67f44d7a59e0520422818ab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ef1270b9a59899bff977a6584a9dd8c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/ef1270b9a59899bff977a6584a9dd8c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d687bbd5d148e21d9b9c61d927e59af6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/d687bbd5d148e21d9b9c61d927e59af6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a68a1c5526abe4a3957a96fd8bb6264/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a68a1c5526abe4a3957a96fd8bb6264/AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6c59efe9be0db3ed364fe35dc25587e2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/6c59efe9be0db3ed364fe35dc25587e2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/a0f8122af1ab261b8c6084a1d6a376a4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/addf026db05d48de49222569be36553f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/02ec30fc88fd62700ab0462245808c78/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a68a1c5526abe4a3957a96fd8bb6264/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/4a68a1c5526abe4a3957a96fd8bb6264/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/adb63e3536745c62b1a3f8bab1b203c9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/52d630aeb90fc43e4ecfd93ab840200d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/086cd0164219f40f420b6ffa21302314/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/ee79be2a31c31a271bfd64db827b2fcf/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e9b60e51687796f818a34176bcf8e85d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/53b3e922b725aae88aac4fb252f828b5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b31073d8408e443ef96882e496dbdc44/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/thuonglv/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/2352aea288ba530612ad00e3ed952931/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/thuonglv/Desktop/Thuong.LV/Native/2-bip/RedmineMobile/android/app/src/main/AndroidManifest.xml:1:1-45:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

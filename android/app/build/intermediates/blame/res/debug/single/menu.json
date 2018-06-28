@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/thuonglv/Desktop/Thuong.LV/Native/ThuongLVRNBoilerplate/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/home/thuonglv/Desktop/Thuong.LV/Native/ThuongLVRNBoilerplate/android/app/build/intermediates/exploded-aar/THUONGLVRNBoilerplate/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/home/thuonglv/Desktop/Thuong.LV/Native/ThuongLVRNBoilerplate/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/home/thuonglv/Desktop/Thuong.LV/Native/ThuongLVRNBoilerplate/android/app/build/intermediates/exploded-aar/THUONGLVRNBoilerplate/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]
