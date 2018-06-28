@@ -1,6 +1,6 @@
 ## Simple Android Application using React Native + Redux + Custom Redmine API and OrangeHRM API
 
-![Preview](https://media.giphy.com/media/C9FNLQmEjctvMGj3yL/giphy.gif)
+![Preview](https://media.giphy.com/media/ulJwQ0EP4ycBNo6mH3/giphy.gif)
 
 ## Project Overview
 
